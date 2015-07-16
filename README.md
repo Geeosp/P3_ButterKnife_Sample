@@ -101,7 +101,7 @@ O ButterKnife facilita o bind entre views declaradas  no xml de layout e seus ob
 .
 .
 .
- @Bind(R.id.seekBarRed)SeekBar seekBarr;
+    SeekBar seekBarr;
     SeekBar seekBarg;
     SeekBar seekBarb;
     View view;
